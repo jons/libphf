@@ -1,3 +1,4 @@
+SUBDIRS = . tests
 
 include_HEADERS = libphf.h
 

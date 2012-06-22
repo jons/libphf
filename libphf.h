@@ -1,10 +1,10 @@
 /*!
  * \file libphf.h
  * \author Bob Jenkins <bob_jenkins@burtleburtle.net>
- * \author jon shusta <jshusta@whoi.edu>
+ * \author jon shusta <jon@wroth.org>
  * \date 1996.09
  * \brief a hash function for table lookup, same function as lookup.c.
-
+ *
  * Use this code in any way you wish.  Public Domain.  It has no warranty.
  * Source is http://burtleburtle.net/bob/c/lookupa.h
  * 2009.04 jas - gave functions prefix phf_

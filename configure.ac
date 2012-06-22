@@ -30,6 +30,6 @@ AC_TYPE_SIZE_T
 
 AC_CHECK_FUNCS([memmove memset memcpy strchr strtol])
 
-AC_CONFIG_FILES([Makefile])
+AC_CONFIG_FILES([Makefile tests/Makefile])
 
 AC_OUTPUT

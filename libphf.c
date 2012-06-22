@@ -1,9 +1,9 @@
 /*!
  * \file libphf.c
  * \author Bob Jenkins <bob_jenkins@burtleburtle.net>
- * \author jon shusta <jshusta@whoi.edu>
+ * \author jon shusta <jon@wroth.org>
  * \date 1996.12
-
+ *
  * Use this code however you wish.  Public Domain.  No warranty.
  * Source is http://burtleburtle.net/bob/c/lookupa.c
  * 2008.08 jas - renamed libphf.c
